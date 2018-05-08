@@ -1,0 +1,27 @@
+{
+  "name": "dj-h5",
+  "version": "0.1.7",
+  "authors": [
+    "linjianhong <linjianhong@github.com>"
+  ],
+  "description": "dj-h5",
+  "main": [
+    "dist/dj-h5.js",
+    "dist/dj-h5.css"
+  ],
+  "styles": [
+    "dist/dj-h5.css"
+  ],
+  "keywords": [
+    "dj",
+    "component",
+    "angular",
+    "login",
+    "wx",
+    "jssdk"
+  ],
+  "dependencies": {
+  },
+  "license": "dj",
+  "homepage": "https://github.com/linjianhong/dj-h5"
+}
