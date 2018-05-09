@@ -4,6 +4,8 @@
 
 * login
 * wxjssdk
+* dj-http
+* dj-localStorage-table
 
 ## Demo
 
@@ -43,6 +45,8 @@ add dependencies in `bower.json` like this:
   angular.module('my-app', [
     'dj-login',
     'wx-jssdk',
+    'dj-http',
+    'dj-localStorage-table',
     // ...
   ]);
 ```

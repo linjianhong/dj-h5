@@ -1,6 +1,6 @@
 {
   "name": "dj-h5",
-  "version": "0.1.7",
+  "version": "0.1.1",
   "authors": [
     "linjianhong <linjianhong@github.com>"
   ],
@@ -14,8 +14,9 @@
   ],
   "keywords": [
     "dj",
-    "component",
     "angular",
+    "http",
+    "localStorage",
     "login",
     "wx",
     "jssdk"
